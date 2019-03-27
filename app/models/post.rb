@@ -19,4 +19,3 @@ CLICKBAIT_PATTERNS = [
      errors.add(:title, "must be clickbait")
    end
  end
-end
